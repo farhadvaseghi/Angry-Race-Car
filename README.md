@@ -1,6 +1,6 @@
 
 # Angry Race Car Using Pygame module
-![Angry_Car](https://user-images.githubusercontent.com/54831801/189369456-1bd83365-a9d0-48ef-bd08-956794021d0b.png)
+![Angry_Car](idth="200" height="400" https://user-images.githubusercontent.com/54831801/189369456-1bd83365-a9d0-48ef-bd08-956794021d0b.png)
 
 In this repo, you will get a simple step-by-step guide on how to create a racing game in Python. The library that we are going to use for this project is Pygame.Conceptually, the game is about driving a car along an endless track. You’ll be required to control your vehicle using arrow keys (left, right) and If you crash into blocks you’ll lose so be careful.
 ## Requirements  

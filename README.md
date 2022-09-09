@@ -16,5 +16,7 @@ cd Angry-Race-Car
 python main.py
 ```
 ## Demo
-![game](https://user-images.githubusercontent.com/54831801/189369449-9fdf4956-ab05-48d6-bc42-f7f95b44a666.png)
- <img src="https://user-images.githubusercontent.com/54831801/189369449-9fdf4956-ab05-48d6-bc42-f7f95b44a666.png"  width="600" height="400">
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/54831801/189369449-9fdf4956-ab05-48d6-bc42-f7f95b44a666.png"  width="700" height="400">
+ <img src="https://user-images.githubusercontent.com/54831801/189372035-d041a8f6-4e05-4db7-a354-b77174ad08fe.png"  width="700" height="400">
+</p>

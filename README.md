@@ -1,5 +1,8 @@
 
 # Angry Race Car Using Pygame module
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54831801/189369456-1bd83365-a9d0-48ef-bd08-956794021d0b.png"  width="300" height="300">
+</p>
 
 ![Angry_Car](https://user-images.githubusercontent.com/54831801/189369456-1bd83365-a9d0-48ef-bd08-956794021d0b.png)
 
